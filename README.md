@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour , je suis Fitiavana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GhosTHaise)](https://git.io/streak-stats)
   <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
