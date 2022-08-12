@@ -13,38 +13,40 @@
             alt="rfitiavana sambatra" height="30" width="40" />
         </a></p>
 
-<h3 align="left">Programming Languages :</h3>
-
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" />
-    </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" />
-    </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
-    </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" />
-    </a><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
-        width="40" height="40" />   
-    </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript" width="40" height="40" />
-    </a> 
-</p>
-
-<h3 align="left">Frontend Development :</h3>
+<div style="display: grid;grid-template-columns:auto auto;padding:10px 50px;">
+   <div>
+    <h3 align="left">Programming Languages :</h3>
+    <p align="left">
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+                height="40" />
+        </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                alt="cplusplus" width="40" height="40" />
+        </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+                width="40" height="40" />
+        </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                alt="javascript" width="40" height="40" />
+        </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" />
+        </a>
+        <a href="https://www.php.net" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
+                width="40" height="40" />
+        </a><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
+            width="40" height="40" />   
+        </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript" width="40" height="40" />
+        </a> 
+    </p>
+   </div>
+<div>
+    <h3 align="left">Frontend Development :</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -67,7 +69,8 @@
         alt="vuejs" width="40" height="40" />
 </a>
 </p>
-
+</div>
+<div>
 
 <h3 align="left">Backend Development :</h3>
 <p align="left">
@@ -85,8 +88,9 @@
         alt="nodejs" width="40" height="40" />
 </a>
 </p>
-
-<h3 align="left">Mobile App Development :</h3>
+</div>
+<div>
+    <h3 align="left">Mobile App Development :</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -98,7 +102,9 @@
     </a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /></a>
 </p>
-<h3 align="left">Database :</h3>
+</div>
+<div>
+    <h3 align="left">Database :</h3>
 <p align="left">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -108,13 +114,17 @@
         alt="mysql" width="40" height="40" /></a>
 </p>
 
-<h3 align="left">Data Visualization :</h3>
+</div>
+<div>
+    <h3 align="left">Data Visualization :</h3>
 
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /></a>
 
 
-<h3 align="left">Softwares :</h3>
+</div>
+<div>
+    <h3 align="left">Softwares :</h3>
 <p align="left">
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
@@ -128,7 +138,9 @@ alt="photoshop" width="40" height="40" />
 src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /></a>
 </p>
 
-<h3 align="left">Framework :</h3>
+</div>
+<div>
+    <h3 align="left">Framework :</h3>
 <p align="left">
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
@@ -140,6 +152,8 @@ src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" hei
     src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"
     height="40" /></a>
 </p>
+</div>
+<div>
 
 <h3 align="left">Tools :</h3>
 <p align="left">
@@ -156,6 +170,8 @@ src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" hei
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
         height="40" /></a>
     </p>
+</div>
+<div>
 
 <h3 align="left">Others :</h3>
 <p align="left">
@@ -165,7 +181,9 @@ src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" hei
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
         width="40" height="40" /></a>
 </p>
+</div>
 
+</div>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ghosthaise&show_icons=true&locale=en&layout=compact"
         alt="ghosthaise" /></p>
