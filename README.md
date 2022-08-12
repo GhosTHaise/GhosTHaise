@@ -8,9 +8,7 @@
     <a href="https://twitter.com/nsfitiavana" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="nsfitiavana" height="30" width="40" />
-    </a>
-
-    <a href="https://fb.com/rfitiavana sambatra" target="blank"><img align="center"
+    </a><a href="https://fb.com/rfitiavana sambatra" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="rfitiavana sambatra" height="30" width="40" />
         </a>
