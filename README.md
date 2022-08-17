@@ -1,7 +1,10 @@
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
+###
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghosthaise&" alt="ghosthaise" /></p>
+</div>
 ###
 
 <div align="center">
@@ -111,6 +114,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=default &card_width=320&langs_count=6&theme=gotham&hide_border=true&username=GhosTHaise" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghosthaise&" alt="ghosthaise" /></p>
