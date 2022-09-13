@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="auto" width="100%" src="https://github.com/GhosTHaise/My-overview/blob/main/Assets/GhosT.jpg"  />
+  <img height="auto" width="100%" src="https://github.com/GhosTHaise/GhosTHaise/blob/main/Assets/GhosT.jpg"  />
 </div>
 
 ###
