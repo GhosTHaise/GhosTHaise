@@ -74,8 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52" alt="socketio logo"  />
-  <img src="https://github.com/GhosTHaise/GhosTHaise/blob/main/Assets/Asp.net core.png" height="45" width="50" alt="rust logo"  />
+  <img src="https://github.com/GhosTHaise/GhosTHaise/blob/main/Assets/Asp.net core.png" height="45" width="50" alt="rust asp.net"  />
 </div>
 
 ###
