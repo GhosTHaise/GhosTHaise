@@ -7,6 +7,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GhosTHaise&theme=tokyonight_duo&hide_border=true" />
 </div>
+<div align="center">
+  <img src="[https://github-readme-streak-stats.herokuapp.com](https://streak-stats.demolab.com)?user=GhosTHaise&theme=tokyonight_duo&hide_border=true" />
+</div>
 
 ###
 
