@@ -61,7 +61,7 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials and Contacts
 
 <div align="center">
 
@@ -76,5 +76,3 @@
 </a>
 
 </div>
-
----
