@@ -4,7 +4,7 @@
   <img src="https://github.com/GhosTHaise/GhosTHaise/blob/main/Assets/GhosT.jpg" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋 I'm Ghost</h1>
+<h1 align="center">Hi 👋 I'm GhosT</h1>
 <h3 align="center">Fullstack Developer • Rust • Next.js • Systems & Web</h3>
 
 ---
