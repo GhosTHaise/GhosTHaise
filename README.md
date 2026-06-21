@@ -4,10 +4,17 @@
   <img src="https://github.com/GhosTHaise/GhosTHaise/blob/main/Assets/GhosT.jpg" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋 I'm GhosT</h1>
-<h3 align="center">Fullstack Developer • Rust • Next.js • Systems & Web</h3>
+<div align="center">
 
----
+# 👋 Hello, I'm **GhosT**
+
+### ⚡ Fullstack Developer • Rust Enthusiast • AI Builder • Systems Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Rust+%E2%9D%A4+Next.js+%E2%9D%A4+TypeScript;AI+Applications+and+Automation;Backend+Architect+%7C+Open+Source+Enthusiast;Always+Learning+Something+New" />
+
+</div>
+
+
 
 <!-- STATS -->
 
@@ -15,9 +22,16 @@
   <img src="https://streak-stats.demolab.com?user=GhosTHaise&theme=tokyonight_duo&hide_border=true" />
 </div>
 
----
+<div align="center">
 
-## 🚀 Tech Stack
+<img src="https://komarev.com/ghpvc/?username=GhosTHaise&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/GhosTHaise?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/GhosTHaise?style=for-the-badge&color=yellow"/>
+
+</div>
+
+# 🚀 Tech Stack
 
 ### 💻 Languages
 
@@ -61,7 +75,22 @@
 
 ---
 
-## 🌐 Socials and Contacts
+# ⚡ Expertise
+
+<div align="center">
+
+```text
+Backend Development      ████████████████████ 95%
+Frontend Development     ██████████████████░ 92%
+Rust Programming         █████████████████░░ 88%
+System Design            █████████████████░░ 87%
+DevOps                   ████████████████░░░ 80%
+AI & Automation          ████████████████░░░ 82%
+```
+
+</div>
+
+# 🌐 Connect With Me
 
 <div align="center">
 
