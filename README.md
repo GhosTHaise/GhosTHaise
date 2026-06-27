@@ -73,8 +73,6 @@
 
 </div>
 
----
-
 # ⚡ Expertise
 
 <div align="center">
